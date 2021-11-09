@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @KhanhPhan8225
+- 👋 Hi, I’m Khanh Phan
 - 👀 I’m interested in code
 - 🌱 I’m currently learning C++ programming
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me: by email phank6142@gmail.com
+- 📫 How to reach me: phank6142@gmail.com
 
 <!---
 KhanhPhan8225/KhanhPhan8225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

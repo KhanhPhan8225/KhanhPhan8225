@@ -1,8 +1,8 @@
 ## Hi, I’m Khanh Phan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👀 I’m interested in code
-- 🌱 I’m currently learning C++ programming
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in **code**
+- 🌱 I’m currently learning **C++**
+- 💞️ Ask me about **anything**
 - 📫 How to reach me: phank6142@gmail.com
 
 ## Github Stats📈
@@ -11,7 +11,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=khanhphan8225&show_icons=true&locale=en&layout=compact&theme=radical)
 
-## Technologies & Tools🔧
+## Technologies & Tools🛠
 
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -22,7 +22,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
-## Social
+## Social👀
 
 <a href="https://fb.com/khanhphuong.8225" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
 <a href="https://m.me/khanhphuong.8225" target="_blank"><img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="messenger"/></a>

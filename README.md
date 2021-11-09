@@ -10,11 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KhanhPhan8225)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=KhanhPhan8225)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 <!---
 KhanhPhan8225/KhanhPhan8225 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

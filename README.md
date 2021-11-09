@@ -1,4 +1,4 @@
-- ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">Hi, I’m Khanh Phan
+## Hi, I’m Khanh Phan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👀 I’m interested in code
 - 🌱 I’m currently learning C++ programming

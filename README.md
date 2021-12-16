@@ -26,10 +26,10 @@
 
 <a href="https://fb.com/khanhphuong.8225" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="facebook"/></a>
 <a href="https://m.me/khanhphuong.8225" target="_blank"><img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="messenger"/></a>
-<a href="https://pinterest.com/phank6142" target="_blank"><img align="center" src="https://img.shields.io/badge/phank6142-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="pinterest"/></a>
+<a href="https://pinterest.com/phank6142" target="_blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="pinterest"/></a>
 <a href="mailto:khanhphan4.pm.me" target="_blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/></a>
 <a href="https://t.me/khanhphan4" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
-<a href="https://t.com/KudoPhank6142" target="_blank"><img align="center" src="https://img.shields.io/badge/KudoPhank6142-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/></a>
+<a href="https://t.com/KudoPhank6142" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/></a>
 
 ## Portfolio
 <a href="https://khanhphan4.pages.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>

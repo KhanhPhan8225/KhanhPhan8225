@@ -7,9 +7,9 @@
 
 ## Github Stats📈
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhPhan8225&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhPhan8225&show_icons=true&theme=midnight-purple)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=khanhphan8225&show_icons=true&locale=en&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=khanhphan8225&show_icons=true&locale=en&theme=midnight-purple)
 
 ## Technologies & Tools🛠
 

@@ -3,7 +3,7 @@
 - 👀 I’m interested in **code**
 - 🌱 I’m currently learning **C++**
 - 💞️ Ask me about **anything**
-- 📫 How to reach me: Social
+- 📫 How to reach me: **Socail**
 
 ## Github Stats📈
 

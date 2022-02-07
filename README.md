@@ -3,7 +3,7 @@
 - 👀 I’m interested in **code**
 - 🌱 I’m currently learning **C++**
 - 💞️ Ask me about **anything**
-- 📫 How to reach me: phank6142@gmail.com
+- 📫 How to reach me: Social
 
 ## Github Stats📈
 

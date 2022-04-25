@@ -1,7 +1,7 @@
 ## Hi, I’m Khanh Phan<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👀 I’m interested in **code**
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **C++ & Python**
 - 💞️ Ask me about **anything**
 - 📫 How to reach me: **Social**
 

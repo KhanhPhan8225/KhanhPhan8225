@@ -5,6 +5,8 @@
 - 💞️ Ask me about **anything**
 - 📫 How to reach me: **Social**
 
+![view counter](https://komarev.com/ghpvc/?username=KhanhPhan8225&label=Profile%20views&color=0e75b6&style=flat-square)
+
 ## Github Stats📈
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=KhanhPhan8225&show_icons=true&theme=midnight-purple)

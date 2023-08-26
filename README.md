@@ -32,7 +32,7 @@
 <a href="https://m.me/khanhphandev" target="_blank"><img align="center" src="https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" alt="messenger"/></a>
 <a href="https://pinterest.com/phank6142" target="_blank"><img align="center" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white" alt="pinterest"/></a>
 <a href="mailto:khanhphan4.pm.me" target="_blank"><img align="center" src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="protonmail"/></a>
-<a href="https://t.me/khanhphan4" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
+<a href="https://t.me/kudophank" target="_blank"><img align="center" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram"/></a>
 <a href="https://twitter.com/KudoPhank6142" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="twitter"/></a>
 
 ## Portfolio
